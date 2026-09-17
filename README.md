@@ -23,7 +23,7 @@ This project aims to answer three questions:
 
 ## Data
 
-The analysis uses the [Mauna Loa atmospheric CO₂ dataset](https://www.statsmodels.org/v0.11.1/datasets/generated/co2.html) that is provided in the package `statsmodels`. The underlying observations are associated with the [NOAA Global Monitoring Laboratory Mauna Loa CO₂ record](https://gml.noaa.gov/ccgg/trends/data.html) from the Global Monitory Laboratory.
+The analysis uses the [Mauna Loa atmospheric CO₂ dataset](https://www.statsmodels.org/v0.11.1/datasets/generated/co2.html) that is provided in the package `statsmodels`. The underlying observations are associated with the [NOAA Global Monitoring Laboratory Mauna Loa CO₂ record](https://gml.noaa.gov/ccgg/trends/data.html) from the Global Monitoring Laboratory.
 
 The dataset spans from 1958 to 2001 and records the weekly average CO₂ concentrations in parts per million (ppm). The weekly averages are derived from continuous measurements taken four times an hour using a nondispersive infrared gas analyser. 
 
@@ -35,7 +35,7 @@ Throughout the analysis, the years 1958 and 1964 were excluded. Both contained a
 
 The notebook first examines seasonal variation by computing the average deviation in CO₂ concentration of each calendar month, relative to annual means. The yearly variability is also considered to determine whether the trend  is broadly consistent across the record. 
 
-Next, aggregation through annual means are used to supress the seasonal cycle and thereby quantify the long-term change in atmospheric CO₂ concentration. A simple total growth over the elapsed period is given.
+Next, annual means are used to suppress the seasonal cycle and thereby quantify the long-term change in atmospheric CO₂ concentration. A simple total growth over the elapsed period is given.
 
 Finally, linear and quadratic regression models are fitted and compared using $R^2$ scores and residual analysis to assess how well they describe the long-term trend. 
 

@@ -6,7 +6,11 @@ This project was completed as preparation for an MSc in Environmental Modelling 
 
 <br>
 <p align="center">
-  <img src="figures/growth.png" width="80%">
+  <img src="figures/residuals.png" height="60%">
+</p>
+
+<p align="center">
+  <em>Linear and quadratic fits to annual mean atmospheric CO₂ concentrations with residual diagnosis</em>
 </p>
 
 ## Research Questions

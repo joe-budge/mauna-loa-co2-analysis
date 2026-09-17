@@ -10,7 +10,7 @@ An analysis of the weekly atmospheric CO₂ observations from the Mauna Loa obse
 <p align="center">
   <em>Linear and quadratic fits to annual mean atmospheric CO₂ concentrations with residual diagnosis</em>
 </p>
-
+<br>
 This project was completed as preparation for an MSc in Environmental Modelling and Data Analysis at the University of Bristol, with a focus on reactivating practical data analysis skills and developing a more rigorous approach to working with time-series data.
 
 ## Research Questions

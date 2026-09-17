@@ -49,7 +49,7 @@ The record represents a single monitoring location and as such is unable to desc
 
 ## Running the Notebook
 
-1. Install the required packages
+Install the required packages
 ```bash
 pip install -r requirements.txt
 ```

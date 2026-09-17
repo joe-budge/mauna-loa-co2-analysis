@@ -6,7 +6,7 @@ This project was completed as preparation for an MSc in Environmental Modelling 
 
 <br>
 
-<img src="figures/residuals" width="80%">
+<img src="figures/residuals.png" width="80%">
 
 ## Research Questions
 

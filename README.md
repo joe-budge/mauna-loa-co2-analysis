@@ -2,8 +2,6 @@
 
 An analysis of the weekly atmospheric CO₂ observations from the Mauna Loa observation site, examining seasonal variability, long-term change in CO₂ concentrations and whether the long-term change follows a linear trend.
 
-This project was completed as preparation for an MSc in Environmental Modelling and Data Analysis at the University of Bristol, with a focus on reactivating practical data analysis skills and developing a more rigorous approach to working with time-series data.
-
 <br>
 <p align="center">
   <img src="figures/residuals.png" height=500px>
@@ -12,6 +10,8 @@ This project was completed as preparation for an MSc in Environmental Modelling 
 <p align="center">
   <em>Linear and quadratic fits to annual mean atmospheric CO₂ concentrations with residual diagnosis</em>
 </p>
+
+This project was completed as preparation for an MSc in Environmental Modelling and Data Analysis at the University of Bristol, with a focus on reactivating practical data analysis skills and developing a more rigorous approach to working with time-series data.
 
 ## Research Questions
 

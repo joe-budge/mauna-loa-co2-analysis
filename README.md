@@ -6,7 +6,7 @@ This project was completed as preparation for an MSc in Environmental Modelling 
 
 <br>
 <p align="center">
-  <img src="figures/residuals.png" height=400px>
+  <img src="figures/residuals.png" height=500px>
 </p>
 
 <p align="center">

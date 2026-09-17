@@ -34,7 +34,8 @@ Finally, linear and quadratic regression models are fitted and compared using $R
 - A clear recurring seasonal cycle was identified, with the mean differences in CO₂ concentration peaking in May and reaching a minimum between September and October. The mean peak-to-trough range of the cycle was approximately 5.56ppm.
 - Annual mean atmospheric CO₂ concentration increased from approximately 315.96 ppm in 1959 to 370.87 ppm in 2001, a total increase of approximately 54.91 ppm
 - Although a linear model explained a large proportion of the variation in the data, its residuals followed a clear U-pattern consistent with an accelerating rate of growth. A quadratic model reduced this pattern in the residuals, indicating that the long-term trend was not linear.
-- 
+
+
 ## Limitations
 The record represents a single monitoring location and as such is unable to describe atmospheric CO₂ concentrations globally. In addition to this, the data contains missing values that were interpolated for analysis. 
 
